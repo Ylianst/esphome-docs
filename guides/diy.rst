@@ -95,6 +95,7 @@ Custom Components & Code
 - `Rheem Econet Water Heater and Furnace Controller <https://github.com/esphome-econet/esphome-econet>`__ by `ESPHome-econet <https://github.com/esphome-econet>`__
 - `Garage Door Opener with position control using a relay and one or two reed sensors <https://github.com/tronikos/esphome-gdo>`__ by :ghuser:`tronikos`
 - `Medisana BS440 (and propably more scales) <https://github.com/bwynants/weegschaal>`__ by `bwynants <https://github.com/bwynants>`__
+- `Watkins Hot Spring, Tiger River, Limelight IQ2020 spa controller <https://github.com/Ylianst/ESP-IQ2020>__ by `https://github.com/Ylianst`__
 
 Sample Configurations
 ---------------------
